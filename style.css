@@ -193,8 +193,13 @@ nav ul li a:hover {
         align-items: center;
     }
 
+    .section {
+        padding: 120px 20px 20px; 
+    }
+
     .section h2 {
         font-size: 2rem; 
         margin-bottom: 1rem;
     }
 }
+
