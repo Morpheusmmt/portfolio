@@ -195,6 +195,7 @@ nav ul li a:hover {
     }
 
     .section h2 {
-        font-size: 2rem;
+        font-size: 2rem; /* Ajuste para telas menores */
+        margin-bottom: 1rem;
     }
 }
