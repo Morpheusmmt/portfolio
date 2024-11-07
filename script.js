@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
         let current = "";
 
         sections.forEach(section => {
-            const sectionTop = section.offsetTop - 100; // Ajuste de deslocamento
+            const sectionTop = section.offsetTop - 100; 
             if (pageYOffset >= sectionTop) {
                 current = section.getAttribute("id");
             }
